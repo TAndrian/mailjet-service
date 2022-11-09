@@ -1,6 +1,5 @@
 /node_modules
 *.env
 *.db
-package-lock.json
 yarn.lock
 .eslintcache
